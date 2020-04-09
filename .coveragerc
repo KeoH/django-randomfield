@@ -1,0 +1,7 @@
+[run]
+include=
+    *django_randomfield/*
+omit =
+    *examples/*
+    .tox/*
+    venv/*
